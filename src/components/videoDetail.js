@@ -13,7 +13,7 @@ const VideoDetail = ({video}) => {
           src={url}
           title="videoplayer"
           className="embed-responsive-item"
-          allowFullScreen="allowfullscreen"
+          allowFullScreen="allowFullScreen"
           frameBorder="0"
            />
       </div>
