@@ -15,9 +15,9 @@ class SearchBar extends Component {
   render() {
     return (
       <div className="w-75 d-block mx-auto my-3">
-        <div class="input-group mb-3">
-          <div class="input-group-prepend">
-            <span class="input-group-text"><i className="fa fa-search" aria-hidden="true"></i></span>
+        <div className="input-group mb-3">
+          <div className="input-group-prepend">
+            <span className="input-group-text"><i className="fa fa-search" aria-hidden="true"></i></span>
           </div>
             <input
               className="form-control"
