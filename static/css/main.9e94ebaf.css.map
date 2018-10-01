@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,GACE,cAAgB,CAGlB,SACE,qBAAuB","file":"static/css/main.9e94ebaf.css","sourcesContent":["li {\n  cursor: pointer;\n}\n\nli:hover {\n  background-color: #ddd;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}

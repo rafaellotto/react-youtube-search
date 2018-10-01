@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,YACA,eAAiB,CAGnB,GACE,cAAgB,CAGlB,SACE,qBAAuB","file":"static/css/main.8f3c079d.css","sourcesContent":["#list {\n  height: 80vh;\n  overflow-y: auto;\n}\n\nli {\n  cursor: pointer;\n}\n\nli:hover {\n  background-color: #ddd;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
